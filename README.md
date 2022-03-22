@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhia.jemai@gmail.com**
 
-- ⚡ Fun fact **Trading, Business, Blockchain technologies and Crypto**
+- ⚡ Fun fact **Trading, Business, Crypto and Blockchain technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
