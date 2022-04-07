@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamed Dhia Jemai</h1>
-<h3 align="center">Full Stack Developer : ( Spring-Boot / Angular / Android )</h3>
+<h3 align="center">Full Stack Developer : Spring-Boot / Angular / Android </h3>
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohameddhiajemai&label=Profile%20views&color=0e75b6&style=flat" alt="mohameddhiajemai" /> </p>
